@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sarthak25123
+- 👋 Hi, I’m Sarthak Rak.
 - 👀 I’m interested in anything related to programming languages, data science etc
-- 🌱 I’m currently learning computer science.
+- 🌱 I’m currently pursuing a course in Artificial Intelligence and Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
